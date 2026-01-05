@@ -98,9 +98,18 @@ const translations = {
     address: '51/53 Zelazna St, 00-841 Warsaw, Poland',
     writeToUs: 'Write to us',
     whyCards: [
-      { title: 'Knowledge', desc: 'Access to the latest trends and market data.' },
-      { title: 'Networking', desc: 'Build relationships with industry leaders and Allegro experts.' },
-      { title: 'Innovation', desc: 'See tools that will transform your business.' }
+      { title: 'Knowledge', desc: 'Access to the latest trends and market data.', img: '/wiedza.jpg'},
+      { title: 'Networking', desc: 'Build relationships with industry leaders and Allegro experts.', img: '/networking.jpg'},
+      { title: 'Innovation', desc: 'See tools that will transform your business.', img: '/innowacje.jpg'}
+    ],
+    agendaData: [
+      { time: '09:00 AM', title: 'Registration & Welcome Coffee', desc: 'Networking over morning espresso.' },
+      { time: '10:00 AM', title: 'Keynote: Allegro Vision 2025', desc: 'The future of the platform and new directions.' },
+      { time: '11:30 AM', title: 'E-commerce AI Revolution', desc: 'How AI supports sales automation.' },
+      { time: '01:00 PM', title: 'Lunch Break', desc: 'Premium catering and networking time.' },
+      { time: '02:00 PM', title: 'Allegro API Deep Dive', desc: 'Technical workshops for developers.' },
+      { time: '03:30 PM', title: 'Partner Success Stories', desc: 'Case studies of top merchants.' },
+      { time: '05:00 PM', title: 'Afterparty', desc: 'Relaxed conversations with music and drinks.' }
     ]
   }
 };
