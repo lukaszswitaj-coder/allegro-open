@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Allegro Open 2025 - Partner Registration Page
 A modern, high-performance landing page designed for the Allegro Open conference participants. This project combines a sleek, dark aesthetic aligned with the Allegro brand book with full registration functionality for business partners.
 [Requirements file](https://docs.google.com/document/d/1S3tsxvMpAJFNhD7YPxBTN8cKWQcE3R2DUeBT0roO1qw/edit?tab=t.0)
